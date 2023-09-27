@@ -1,0 +1,12 @@
+25-Sep-2023 20:14:21.128 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+25-Sep-2023 20:14:21.507 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring-mvc'
+25-Sep-2023 20:14:26.843 INFO [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+25-Sep-2023 20:16:14.038 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+25-Sep-2023 20:16:14.365 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring-mvc'
+25-Sep-2023 20:17:34.363 INFO [Thread-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+25-Sep-2023 20:18:26.426 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+25-Sep-2023 20:18:26.802 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring-mvc'
+25-Sep-2023 20:18:57.214 INFO [Thread-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+25-Sep-2023 20:27:02.483 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+25-Sep-2023 20:27:02.865 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring-mvc'
+25-Sep-2023 20:27:20.907 INFO [Thread-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
